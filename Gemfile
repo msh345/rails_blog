@@ -7,11 +7,9 @@ gem 'rails', '3.2.14'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-gem 'pg'
+gem 'sqlite3'
 
 gem 'strong_parameters'
-
-gem 'rails_12factor', group: :production
 
 
 # Gems used only for assets and not required
